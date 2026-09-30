@@ -4,7 +4,6 @@ def sum_list(numbers):
     for i in numbers:
         sum = sum+i
     return sum
-    pass
 
 numbers = [10, -5, 7, 8, -2]
 print (sum_list(numbers))

@@ -5,7 +5,6 @@ def find_largest(numbers):
         if i > max: 
             max = i
     return max
-    pass
 
 
 numbers = [5, 2, 9, 3, 7]
